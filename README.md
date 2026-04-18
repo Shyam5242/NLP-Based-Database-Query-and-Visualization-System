@@ -47,9 +47,9 @@ Visualizations:-
 Bar charts (Sales by Region, Top Products)
 Pie charts (Category Distribution)
 Line charts (Sales Over Time)
+
 Installation & Setup:-
 1. Open in Google Colab
-
 Upload your dataset:
 from google.colab import files
 files.upload()
